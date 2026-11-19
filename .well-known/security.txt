@@ -1,0 +1,4 @@
+Contact: mailto:info@trailmarker.io
+Expires: 2027-05-18T06:50:24Z
+Canonical: https://extrafold.app/.well-known/security.txt
+Preferred-Languages: en
